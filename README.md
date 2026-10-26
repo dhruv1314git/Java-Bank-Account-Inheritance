@@ -81,6 +81,4 @@ Java-Bank-Account-Inheritance/
 
 ## Authors
 
-- Patel Dhruv Girishkumar — 202503103510241
-- Patel Kaksh Pravinbhai — 202503103510242
-- Class / Division: 3A
+Patel Dhruv Girishkumar
