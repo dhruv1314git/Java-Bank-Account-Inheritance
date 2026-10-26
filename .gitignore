@@ -1,0 +1,7 @@
+# Compiled Java bytecode
+*.class
+out/
+build/
+.idea/
+.vscode/
+.DS_Store
